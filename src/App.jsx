@@ -109,7 +109,12 @@ function App() {
             currentLang.theme.text_dim
           )}
         >
-          <p>© 2025 CodeSubmit • {currentLang.name} Mode</p>
+          <p>
+            © 2025 CodeSubmit • Built for students, by students.
+            <span className="block opacity-50 mt-1">
+              Concept by Rishi Saraff • Web by Aabid Hasan
+            </span>
+          </p>
         </footer>
       </div>
     </div>
