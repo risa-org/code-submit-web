@@ -22,34 +22,7 @@ CodeSubmit is a modern web application designed to allow students to write, exec
   - ⚡ **C++**: Electric Cyan
 - **⚡ Modern Tech Stack**: Built with React 19, Vite 7, and Tailwind CSS 4 for blazing fast performance.
 
-### Theme Gallery
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/python.png" width="300" alt="Python Theme" />
-      <br />
-      <b>Python (Indigo)</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/java.png" width="300" alt="Java Theme" />
-      <br />
-      <b>Java (Orange)</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="screenshots/javascript.png" width="300" alt="JavaScript Theme" />
-      <br />
-      <b>JavaScript (Yellow)</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/cpp.png" width="300" alt="C++ Theme" />
-      <br />
-      <b>C++ (Cyan)</b>
-    </td>
-  </tr>
-</table>
+![CodeSubmit Dashboard](screenshots/python.png)
 
 ## 🛠️ Tech Stack
 
