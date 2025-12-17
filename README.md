@@ -6,6 +6,7 @@ CodeSubmit is a modern web application designed to allow students to write, exec
 
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://risa-org.github.io/code-submit-web/)
 
 ## 🚀 Features
 
